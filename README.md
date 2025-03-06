@@ -1,7 +1,7 @@
-In this repository you can find the source code for our research paper titled "To Protest or Not To Protest: Social Protest
+In this repository you can find the source code for our research paper submitted to the IEEE journal and conference titled "To Protest or Not To Protest: Social Protest
 Effectiveness Analysis using Machine Learning". 
 
-The file is in the form of a Jupyter Notebook. It includes everything from importing and preparing the dataset, performing
+The files are in the form of Jupyter Notebooks. They include everything from importing and preparing the dataset, performing
 feature engineering, hyperparameter tuning, outlier removal, deploying several different ML models to selecting the final 
 model. 
 
